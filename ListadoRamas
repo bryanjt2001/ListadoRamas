@@ -1,0 +1,11 @@
+#Presentamos las ramas usando los comandos git branch o git branch -a
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git branch
+* master
+  pruebas
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git branch -a
+* master
+  pruebas
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>
